@@ -23,6 +23,7 @@ let violet = {
   code: [Python, Java, Javascript, C, C++, Typescript, SQL, HTML, CSS],
   tools: [Node.js, Django, Docker, Git, Postman, Azure, Jira],
   experience: {
+                        Hobby Lobby Inc.: "Software Developer",
                         The University of Oklahoma: "Machine Learning Researcher",
                         Heartland Payment Systems, Global Payments Inc.: "Software Developer",
                         Center for Earth Observation and Modeling: "Software Developer Intern"
