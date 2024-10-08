@@ -34,7 +34,7 @@ let violet = {
 }
 ```
 
-![](https://komarev.com/ghpvc/?username=starrycode&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=starrycode&color=blueviolet&style=for-the-badge)
 <!--
 **starrycode/starrycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
