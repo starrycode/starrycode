@@ -33,6 +33,8 @@ let violet = {
   awards: ["President's Award for Outstanding Transfer Students", "President's Honor Roll", "Dean's Honor Roll"]
 }
 ```
+
+![](https://komarev.com/ghpvc/?username=starrycode&color=blueviolet)
 <!--
 **starrycode/starrycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
